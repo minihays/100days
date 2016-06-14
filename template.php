@@ -2,11 +2,9 @@
 <html lang=en>
 <head>
 <meta charset=utf-8>
-<title>Projects</title>
+<title>Title</title>
 </head>
 <body>
-<ol>
-<li>Hello World!</li>
-<ol>
+<p>Hello world!</p>
 </body>
 </html>
