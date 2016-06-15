@@ -5,8 +5,8 @@
 <title>Projects</title>
 </head>
 <body>
-<ol>
-<li>Hello World!</li>
-<ol>
+<ul>
+<li>Day 1 * <a href="hello-world">Hello World!</a></li>
+</ul>
 </body>
 </html>
